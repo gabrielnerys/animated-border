@@ -86,14 +86,15 @@ div:nth-child(3){
 .animated::after{
     content: 'Border';
     position: relative;
-    height: 93%;
-    width: 93%;
-    left: 3.5%;
-    top: 3.5%;
+    height: 97%;
+    width: 97%;
+    left: 1.5%;
+    top: 1.5%;
     background-color: rgb(0, 7, 36);
     letter-spacing: 6px;
     display: grid;
     place-items: center;
+
 }
 
 #button1::after{
